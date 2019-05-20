@@ -1,6 +1,6 @@
 Intima-media Segmentation ReadMe
 
-The repository contains the Matlab implementations of the parallel boundary detection algorithm proposed in:  
+The repository contains the Matlab implementation of the parallel boundary detection algorithm proposed in:  
 
 Zhou, Y.; Cheng, X.; Xu, X. & Song, E.  
 Dynamic programming in parallel boundary detection with application to ultrasound intima-media segmentation  
