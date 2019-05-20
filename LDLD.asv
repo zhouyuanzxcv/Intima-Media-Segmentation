@@ -16,10 +16,10 @@ lmax = 60; % region width
 lambda = 4; % strength to match the endpoints of adjacent line segments
 w1 = 0; % maximum angle between two line segments in a local region (0 implies absolute parallelism)
 w2 = pi/9; % maximum angle between adjacent line segments
-dis_min = 6; % minimum distance between two line segments in a local region
-dis_max = 20; % maximum distance between two line segments in a local region
+dis_min = 6; % minimum distance between two line segments
+dis_max = 20; % maximum distance between two line segments
 
-% The following parameters are related to the Hough transform
+% The following parameters are HOuimplementations 
 theta_num = 45; dir_tol = 1; % delta_rho = M/rho_num
 epsilon = 0.2; t1 = 0.5;
 
